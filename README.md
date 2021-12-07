@@ -4,7 +4,7 @@
 - 🔨 Currently working on a homebrew ps2 game.
 - 📚 Studying Computer science at Keele university
 - 💞️ Not looking to do collabrative work.
-- 📫 How to reach me joelblakey@hotmail.com(email)
+- 📫 How to reach me joelblakey@hotmail.com
 
 Projects in my github so far
 - A level Computer Science Project. A console based RPG game taking advantage of the OOP concepts and a database. Coded Between 2018-2019
